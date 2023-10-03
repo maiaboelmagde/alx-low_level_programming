@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1696340110 source:/home/mai/alx-low_level_programming/0x08-recursion/0-main.c
+	"main.h"
+
+1696338310 /home/mai/alx-low_level_programming/0x08-recursion/main.h
+
+1696338246 source:/home/mai/alx-low_level_programming/0x08-recursion/_putchar.c
+	"main.h"
+	<unistd.h>
+
+1696335922 source:/home/mai/alx-low_level_programming/0x08-recursion/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1696340165 source:/home/mai/alx-low_level_programming/0x08-recursion/0-puts_recursion.c
+	"main.h"
+
