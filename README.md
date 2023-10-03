@@ -1,3 +1,1 @@
-# alx-low_level_programming
-C_projects 
-ALX program
+C_projects solutions ,  ALX program
