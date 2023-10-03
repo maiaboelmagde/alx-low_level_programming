@@ -12,6 +12,12 @@
 	<stdio.h>
 	<stdlib.h>
 
-1696340165 source:/home/mai/alx-low_level_programming/0x08-recursion/0-puts_recursion.c
+1696343293 source:/home/mai/alx-low_level_programming/0x08-recursion/0-puts_recursion.c
+	"main.h"
+
+1696343295 source:/home/mai/alx-low_level_programming/0x08-recursion/1-main.c
+	"main.h"
+
+1696343139 source:/home/mai/alx-low_level_programming/0x08-recursion/1-print_rev_recursion.c
 	"main.h"
 
