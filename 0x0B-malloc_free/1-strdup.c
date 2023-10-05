@@ -1,5 +1,5 @@
 #include "main.h"
-
+#include <stdlib.h>
 /**
  * _strdup - duplicate to new memory space location
  * @str: char
