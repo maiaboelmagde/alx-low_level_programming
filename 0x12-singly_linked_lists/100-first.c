@@ -3,7 +3,7 @@
 void pre_main(void) __attribute__ ((constructor));
 
 /**
- * pre_main -  function should be executed before main function 
+ * pre_main -  function should be executed before main function
  *
  * Return: void.
  */
