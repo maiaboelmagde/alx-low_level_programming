@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1697841036 source:/home/mai/Desktop/ALX tasks/alx-low_level_programming/0x12-singly_linked_lists/0-print_list.c
+	"lists.h"
+
+1697842445 /home/mai/Desktop/ALX tasks/alx-low_level_programming/0x12-singly_linked_lists/lists.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1697842243 source:/home/mai/Desktop/ALX tasks/alx-low_level_programming/0x12-singly_linked_lists/main.c
+	<stdio.h>
+
+1697841460 source:/home/mai/Desktop/ALX tasks/alx-low_level_programming/0x12-singly_linked_lists/1-list_len.c
+	"lists.h"
+
+1697840169 source:/home/mai/Desktop/ALX tasks/alx-low_level_programming/0x12-singly_linked_lists/100-first.c
+	"lists.h"
+
+1697842243 source:/home/mai/Desktop/ALX tasks/alx-low_level_programming/0x12-singly_linked_lists/2-add_node.c
+	"lists.h"
+
+1697840169 source:/home/mai/Desktop/ALX tasks/alx-low_level_programming/0x12-singly_linked_lists/3-add_node_end.c
+	"lists.h"
+
+1697840169 source:/home/mai/Desktop/ALX tasks/alx-low_level_programming/0x12-singly_linked_lists/4-free_list.c
+	"lists.h"
+
