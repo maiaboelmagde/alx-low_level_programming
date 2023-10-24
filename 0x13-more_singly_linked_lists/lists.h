@@ -1,5 +1,5 @@
-#ifndef LISTS.H
-#define LISTS.H
+#ifndef LISTS_H
+#define LISTS_H
 
 
 
@@ -33,4 +33,4 @@ typedef struct listint_s
 /*functions*/
 size_t print_listint(const listint_t *h);
 
-#endif // LISTS
+#endif
