@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
-*print_listint - a function that prints all the elements of a listint_t list.
+*listint_len - a function that prints the length of a listint_t list.
 *
 *@h : lisr_t list
 *
