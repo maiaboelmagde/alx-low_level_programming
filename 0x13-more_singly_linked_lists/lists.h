@@ -20,6 +20,6 @@ typedef struct listint_s
 } listint_t;
 
 /*functions*/
-size_t print_listint(const listint_t *h);
+size_t print_listint (const listint_t *h);
 
 #endif
