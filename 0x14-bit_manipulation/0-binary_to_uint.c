@@ -19,7 +19,7 @@ int calc_len(const char *s)
  * a binary number to an unsigned int.
  *
  * @b: the binary pattern
- * Return : decimal equavellant
+ * Return: decimal equavellant
 */
 
 unsigned int binary_to_uint(const char *b)
