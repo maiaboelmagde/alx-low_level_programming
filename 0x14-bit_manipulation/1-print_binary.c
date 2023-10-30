@@ -13,7 +13,7 @@ void print_binary(unsigned long int n)
 
 	if (n == 0)
 	{
-		printf("%c", '0');
+		_putchar('0');
 		return;
 	}
 
@@ -27,10 +27,10 @@ void print_binary(unsigned long int n)
 	{
 		if (two_Multiples <= n)
 		{
-			printf("%c", '1');
+			_putchar('1');
 			n -= two_Multiples;
 		} else
-			printf("%c", '0');
+			_putchar('0');
 
 		two_Multiples = (two_Multiples >> 1);
 
