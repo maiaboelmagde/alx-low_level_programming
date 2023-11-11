@@ -6,9 +6,6 @@
  * @argc: len of arg.
  * @argv: distenation file and source file.
  *
- * Description: Usage (cp file_from file_to)
- * buffer You are allowed to use dprintf
- *
  * Return: 0 on success
  */
 int main(int argc, char **argv)
