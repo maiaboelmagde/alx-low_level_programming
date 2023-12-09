@@ -25,8 +25,8 @@ int delete_dnodeint_at_index(dlistint_t **head, unsigned int index)
 			*head = NULL;
 		} else
 		{
+			our_node->next->prev = NULL;
 			*head = our_node->next;
-			our_node->prev = NULL;
 		}
 		free(our_node);
 		return (1);
