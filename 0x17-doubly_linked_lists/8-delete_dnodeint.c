@@ -36,11 +36,11 @@ int delete_dnodeint_at_index(dlistint_t **head, unsigned int index)
 	{
 		if (count == index)
 		{
-			dlistint_t *prev_node = our_node->prev;
+			if (our_node->prev != NULL)
+				our_node->prev->next = our_node->next;
 
-			our_node = our_node->next;
-			prev_node->next = our_node;
-			our_node->prev = prev_node;
+			if (our_node->next != NULL)
+				our_node->next->prev = our_node->prev;
 			return (1);
 		}
 		our_node = our_node->next;
